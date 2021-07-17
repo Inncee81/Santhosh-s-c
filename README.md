@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @Santhosh-s-c
-- 👋 Try Out Jua Js
